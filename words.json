@@ -1,0 +1,82 @@
+{
+  "words": [
+    {
+      "pl": "samochód",
+      "en": "car",
+      "es": "coche",
+      "fr": "voiture",
+      "de": "Auto",
+      "hu": "autó"
+    },{
+      "pl": "dom",
+      "en": "house",
+      "es": "casa",
+      "fr": "maison",
+      "de": "Haus",
+      "hu": "házban"
+    },{
+      "pl": "cześć",
+      "en": "hello",
+      "es": "hola",
+      "fr": "bonjour",
+      "de": "hallo",
+      "hu": "szia"
+    },{
+      "pl": "co słychać?",
+      "en": "what's up?",
+      "es": "que pasa?",
+      "fr": "quoi de neuf?",
+      "de": "Was ist los?",
+      "hu": "mi van?"
+    },{
+      "pl": "Dzień dobry",
+      "en": "Good morning",
+      "es": "Buenos dias",
+      "fr": "Bonjour",
+      "de": "Guten Morgen",
+      "hu": "Jó reggelt"
+    },{
+      "pl": "kocham cię",
+      "en": "I love you",
+      "es": "te amo",
+      "fr": "je t'aime",
+      "de": "Ich liebe dich",
+      "hu": "szeretem u"
+    },{
+      "pl": "do widzenia",
+      "en": "goodbye",
+      "es": "adios",
+      "fr": "au revoir",
+      "de": "Tschüss",
+      "hu": "Viszontlátásra"
+    },{
+      "pl": "lampa",
+      "en": "lamp",
+      "es": "lámpara",
+      "fr": "lampe",
+      "de": "Lampe",
+      "hu": "lámpával"
+    },{
+      "pl": "talerz",
+      "en": "plate",
+      "es": "plato",
+      "fr": "plaque",
+      "de": "Platte",
+      "hu": "lemez"
+    },{
+      "pl": "jestem głodny",
+      "en": "I'm hungry",
+      "es": "Tengo hambre",
+      "fr": "j'ai faim",
+      "de": "Ich habe Hunger",
+      "hu": "éhes vagyok"
+    },{
+      "pl": "Dobranoc",
+      "en": "Good night",
+      "es": "buenas noches",
+      "fr": "Bonne nuit",
+      "de": "Gute Nacht",
+      "hu": "jóéjt"
+    }
+  ]
+}
